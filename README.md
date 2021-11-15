@@ -1,4 +1,4 @@
-### Hi, welcome to my Git. 👋
+### Hi, welcome to my Git. 👋🏾
 🌱 I’m currently learning HTML5 and CSS3!<br>
 📫 How to reach me: playerrejora@gmail.com
 
