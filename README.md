@@ -1,6 +1,6 @@
 ### Hi, welcome to my Git. 👋🏾
 🌱 I’m currently learning HTML5 and CSS3!<br>
-📫 How to reach me: playerrejora@gmail.com
+📫 How to reach me: playerrejota@gmail.com
 
 <!--
 **cmalheiros/cmalheiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
