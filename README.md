@@ -1,4 +1,4 @@
-### Hi, welcome to my Git. 👋🏾
+### Hi, welcome to my GitHub. 👋🏾
 🌱 I’m currently learning HTML5 and CSS3!<br>
 
 
